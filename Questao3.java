@@ -18,7 +18,7 @@ public class Questao3 {
         // }
 
         // ==FALHA==
-        // TODO code application logic here
+        // Code application logic here
         // int cont = 0; //Erro = variavel 'cont' não tem o seu valor final, pós segundo For utilizado em lugar nenhum
         // int vetor1[] = new int[10];
         // int vetor2[] = new int[10];// Erro = vetor2[] não tendo nenhum valor para ser comparado, além de 0
@@ -36,7 +36,7 @@ public class Questao3 {
         // }
 
         //==CORREÇÃO==
-        // TODO code application logic here
+        // Code application logic here
         int cont = 0;
         int vetor1[] = new int[10];
         int vetor2[] = new int[10];
