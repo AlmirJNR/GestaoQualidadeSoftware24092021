@@ -27,8 +27,8 @@ public class Questao1 {
         
         input.close(); /* -> Fechando o fluxo do input, para nao consumir mais memoria de maneira desnecessaria */
 
-        System.out.println("A area é: " + trapezio.calcularArea(altura, baseMaior, baseMenor));
-        System.out.println("A mediana de Euler é: " + trapezio.calcularMedianaEuler(baseMaior, baseMenor));
+        System.out.println("A area é: " + trapezio.calcularArea());
+        System.out.println("A mediana de Euler é: " + trapezio.calcularMedianaEuler());
     }
 
 

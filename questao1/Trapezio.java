@@ -12,12 +12,12 @@ public class Trapezio {
     }
     
     //Metodo que Retorna a area do do trapezio
-    public float calcularArea(float altura, float baseMaior, float baseMenor) {
+    public float calcularArea() {
         return ((baseMaior + baseMenor) * altura / 2);
     }
 
     //Metodo que Retorna a Mediana de Euler
-    public float calcularMedianaEuler(float baseMaior, float baseMenor) {
+    public float calcularMedianaEuler() {
         return ((baseMaior - baseMenor) / 2);
     }
 }
