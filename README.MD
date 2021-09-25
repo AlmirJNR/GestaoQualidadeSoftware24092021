@@ -1,1 +1,1 @@
-https://docs.google.com/document/d/1guoCkpXxjVLauLRe-1_J6b2fbaHVHJlJc2TlvqidTuE/view
+https://docs.google.com/document/d/1kTE8iFENJwVoVbJ2_Dp_fiPGMePwHVZkTg7vWPeypdE/view
