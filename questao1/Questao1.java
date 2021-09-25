@@ -30,6 +30,4 @@ public class Questao1 {
         System.out.println("A area é: " + trapezio.calcularArea());
         System.out.println("A mediana de Euler é: " + trapezio.calcularMedianaEuler());
     }
-
-
 }
